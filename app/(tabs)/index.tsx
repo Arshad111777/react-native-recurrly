@@ -30,7 +30,7 @@ export default function Home() {
       </Link>
 
       <Link href="/subscriptions/spotify">Spotify Subscription</Link>
-      <Link href="/subscriptions/github">Github Subscription</Link>
+      <Link href="/subscriptions/github">GitHub Subscription</Link>
 
       <Link
         href={{
